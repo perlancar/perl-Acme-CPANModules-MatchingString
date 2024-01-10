@@ -1,0 +1,5 @@
+Acme-CPANModules-MatchingString-*
+.build
+*~
+nytprof*
+.DS_Store
